@@ -3,6 +3,9 @@
 tech_blog is a website where different devs can post about tech related topics.
 
 
+## Deployed Link
+Heroku Link: https://mighty-ocean-53189.herokuapp.com/
+
 ## Usage
 
 ```md
@@ -42,7 +45,7 @@ THEN I am automatically signed out of the site
 ```
 
 ## Demo
-[]()
+![Demo](public/imgs/techblog_demo.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
